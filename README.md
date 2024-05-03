@@ -1,4 +1,5 @@
 # nextjs-dashboard
+npm install --global vercel@latest
 echo "# nextjs-dashboard" >> README.md
 git init
 git add README.md
